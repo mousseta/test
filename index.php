@@ -12,6 +12,7 @@ session_start();
 </head>
 <body>
 <?php 
+$test=0;
 require("modele/User.php");
 require("modele/Article.php");
 require("controller/Dao.php");
