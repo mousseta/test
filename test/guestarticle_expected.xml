@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<dataset>
+    <guestbook id="1" name="thomas" address="Kerala, India" phone="12345" />
+    <guestbook id="2" name="anna" address="TN, India" phone="54322" /> 
+    <guestbook id="3" name="George" address="AP, India" phone="4545" /> 
+</dataset>
